@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494686522737",
+    "project_id": "remotephotogallery",
+    "storage_bucket": "remotephotogallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494686522737:android:bd12a62432d06667db3ad0",
+        "android_client_info": {
+          "package_name": "com.example.testing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494686522737-950baeu7ure4a7i0sitnuluupoggd6k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7mHSz8_hYF7JBReVQpme52NddvWHKDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494686522737-950baeu7ure4a7i0sitnuluupoggd6k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
